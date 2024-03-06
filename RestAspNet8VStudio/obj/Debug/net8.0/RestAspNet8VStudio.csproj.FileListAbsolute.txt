@@ -1,0 +1,453 @@
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\01_RestAspNet8VStudio - Copia\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\02_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\03_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\04_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\05_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\06_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\07_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio\RestAspNet8VStudio\bin\Debug\net8.0\Swashbukle.AspNetCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\MySqlConnector.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\bin\Debug\net8.0\Swashbukle.AspNetCore.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+E:\M2-BTC5-BACKEND\08_RestAspNet8VStudio - Postgree\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.AssemblyReference.cache
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfoInputs.cache
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.AssemblyInfo.cs
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CoreCompileInputs.cache
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.sourcelink.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\refint\RestAspNet8VStudio.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.pdb
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\appsettings.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.exe
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.deps.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.runtimeconfig.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\RestAspNet8VStudio.pdb
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Evolve.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Npgsql.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Swashbukle.AspNetCore.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.RestAspNet8VStudio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.build.RestAspNet8VStudio.props
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestAspNet8VStudio.props
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestAspNet8VStudio.props
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\scopedcss\bundle\RestAspNet8VStudio.styles.css
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.csproj.CopyComplete
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\RestAspNet8VStudio.genruntimeconfig.cache
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\obj\Debug\net8.0\ref\RestAspNet8VStudio.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acesso_lab04\DesafioPratico\RestAspNet8VStudio\bin\Debug\net8.0\Newtonsoft.Json.dll
